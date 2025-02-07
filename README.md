@@ -4,7 +4,7 @@ A simple app which lets you train machine learning models and allows you to down
 
 ## Description
 
-This application was made using Python libraries (especially `streamlt` for the front-end) and operates by taking CSV files as training data. It lets you configure the training process and execute it automatically. After finished training, you get access to the logs (created using `mlflow`) and you can download the model.
+This application was made using Python libraries (especially `streamlit` for the front-end) and operates by taking CSV files as training data. It lets you configure the training process and execute it automatically. After finished training, you get access to the logs (created using `mlflow`) and you can download the model.
 
 ## Layout
 
